@@ -432,6 +432,7 @@ void deleteBack(List L){
   }
   else{
     L->back = L->back->prev;
+    L->back->next = NULL;
   }
   L->length--;
   freeNode(&N);
