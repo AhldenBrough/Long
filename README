@@ -1,0 +1,13 @@
+Ahlden Brough
+ajbrough
+pa3
+
+List.h 				Template for the list ADT.
+List.c 				A list ADT which uses a doubly linked list of integers.
+ListTest.c 			A test for List.c.
+BigInteger.c 		BigInteger implementation file.
+BigInteger.h 		BigInteger header file.
+BigIntegerTest.c 	Test suite for the BigInteger ADT.
+Arithmetic.c 		Top level client for the project
+Makefile 			Creates executables for Arithmetic.
+README 				Provides descriptions of each file in pa3.
